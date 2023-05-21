@@ -1,0 +1,18 @@
+.headerimg{
+    margin-left: 60px;
+    height: 60px;
+    width: 210px;
+  }
+
+.footeralign{
+    height: 90px;
+    width: auto;
+    background-color: rgb(229, 235, 233);
+}
+.footerimg{
+    height: 60px;
+    width: 210px;
+    margin-left: 600px;
+    margin-top: 16px;
+}
+

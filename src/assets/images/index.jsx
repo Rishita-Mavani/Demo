@@ -1,1 +1,1 @@
-export const addIcon = require('./download.png');
+export const addIcon = require('./logo.png');
